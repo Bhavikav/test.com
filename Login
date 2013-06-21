@@ -1,0 +1,597 @@
+<!DOCTYPE html>
+<!--[if IE 8]> <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width" />
+        <!--        <noscript><meta http-equiv="refresh" content="1;url=/js_desabled.html"></noscript>-->
+        <title>
+            HSBC Business loan protection:
+            Users        </title>
+
+        <link href="/favicon.ico" type="image/x-icon" rel="icon" /><link href="/favicon.ico" type="image/x-icon" rel="shortcut icon" /><link rel="stylesheet" type="text/css" href="/css/normalize.css" /><link rel="stylesheet" type="text/css" href="/css/foundation.css" /><link rel="stylesheet" type="text/css" href="/css/foundation_sdn.css" /><link rel="stylesheet" type="text/css" href="/css/foundation_dev.css" /><link rel="stylesheet" type="text/css" href="/css/style.css" /><link rel="stylesheet" type="text/css" href="/css/button_css.css" /><link rel="stylesheet" type="text/css" href="/css/includes.css" /><link rel="stylesheet" type="text/css" href="/css/sdn_style.css" /><link rel="stylesheet" type="text/css" href="/css/simplemodal/basic_ie.css" /><link rel="stylesheet" type="text/css" href="/css/simplemodal/basic.css" /><script type="text/javascript" src="/js/vendor/custom.modernizr.js"></script><script type="text/javascript" src="/js/jquery-1.8.2.min.js"></script><script type="text/javascript" src="/js/jquery.validate.min.js"></script><script type="text/javascript" src="/js/simplemodal/jquery.simplemodal.js"></script><script type="text/javascript" src="/js/simplemodal/basic.js"></script><script type="text/javascript" src="/js/jquery.js"></script><script type="text/javascript" src="/js/foundation.min.js"></script><script type="text/javascript" src="/js/document.readytootip.js"></script><script type="text/javascript" src="/js/validate.js"></script><script type="text/javascript" src="/js/jquery.tooltip.js"></script><script type="text/javascript" src="/js/document.readynewtooltip.js"></script>   
+        <link rel="stylesheet" href="/js/jqtransformplugin/jqtransform.css" type="text/css" media="all" />  
+        <link href="/css/form_css.css" rel="stylesheet" type="text/css" />
+        <script type="text/javascript" src="/js/requiered/jquery.js" ></script>
+        <script type="text/javascript" src="/js/jqtransformplugin/jquery.jqtransform.js" ></script>
+        <script language="javascript">
+            $(function() {
+                $('form').jqTransform({imgPath: '/js/jqtransformplugin/img/'});
+            });
+        </script>
+        <script type="text/javascript">
+            $(document).ready(function() {
+                //document.cookie = 'hasJS=true';
+                var sKey = "hasJS"; 
+                var sValue = "true";
+                var sExpires = ""; 
+                var sDomain = "";
+                var sPath = '/';
+                var bSecure = true;
+                var httpo = true;
+                //console.log(escape(sKey) + "=" + escape(sValue) + sExpires + (sDomain ? "; domain=" + sDomain : "") + (sPath ? "; path=" + sPath : "") + (bSecure ? "; secure" : "") + (httpo ? "; HttpOnly;" : ""));
+                //document.cookie = escape(sKey) + "=" + escape(sValue) + sExpires + (sDomain ? "; domain=" + sDomain : "") + (sPath ? "; path=" + sPath : "") + (bSecure ? "; secure" : "") + (httpo ? "; HttpOnly;" : "");
+                document.cookie = 'hasJS=true; path=/';
+                //$.cookie("hasJS", 'true');
+                //$.cookie('hasJS', 'true', { path: '/' });
+            });
+        </script>
+        <!-- Reference to externalised top_section.js file -->
+        <script language="javascript" type="text/javascript" src='/js/top_section.js'></script>
+        <!-- Site level metadata -->
+        <script type="text/javascript">
+            /*<![CDATA[*/
+            HSBC.SITE.rgn="Europe";
+            HSBC.SITE.subrgn="UK";
+            HSBC.SITE.cnty="United Kingdom";
+            HSBC.SITE.ent="HSBC Bank";
+            HSBC.SITE.brand="HSBC";
+            HSBC.DCS.ID="dcsl7f9tqvievvnrl1lv4ug9d_1j5o"; // Email ‘Global WebTrends Admin’ for your own entity DCS Id //
+            //HSBC.DCS.Doms="{insert correct value here}";
+            HSBC.SITE.custgrp="CMB";
+            HSBC.SITE.busline="SME";
+            HSBC.SITE.prodline="Loans";
+            HSBC.SITE.site="IB";
+            HSBC.SITE.ibtype="BIB";
+            HSBC.PAGE.cg_n="IB;BIB";
+            HSBC.SITE.language="en";
+            HSBC.SITE.cam="30";
+            /*]]>*/
+        </script> 
+
+    </head>
+    <body>
+        <!-- Context specific metadata -->
+        <script language="javascript" type="text/javascript">
+            HSBC.SITE.custgrp="CMB";
+            HSBC.SITE.busline="SME";
+            HSBC.SITE.prodline="Loans";
+            HSBC.SITE.site="IB";
+            HSBC.SITE.ibtype="BIB";
+            HSBC.PAGE.cg_n="IB;BIB";
+            HSBC.SITE.language="en";
+            HSBC.SITE.cam="30";
+        </script>
+
+        
+
+        <noscript>       
+        <!--        <meta http-equiv="refresh" content="0; URL=/nojs.php">-->
+        </noscript>
+                <div id='dt_wrapper'>
+            <div class="row">
+                <div class="large-12 columns">
+
+                    
+                    <div id='header_grey'>
+                        <div class='headerlogo'>
+                            <a href="/" title="Home"><img src="/img/back.png" alt="Back to home image" /></a>
+                            <div class='linking' >
+
+                                                                       
+                                        <a href="/users/Login" title="Log on">Log on</a>  
+                                        <span> | </span>
+
+                                        <a href="/users/Register" title="Register">Register</a>  
+                                        <span> | </span>
+                                        <a  href="/users/HowToUseWebsite" title="Help"  >Help</a> 
+                                        
+                            </div>
+
+                        </div>
+                    </div>
+                                        <div id='shadow'></div>
+                    <div id="breadc">
+    <a>&nbsp;</a>
+    <lable class='breadcrub-lable'></lable>
+    <a>&nbsp;</a>
+</div>
+
+
+                                   
+
+                </div>
+
+                <!-- end of header -->
+
+
+                <!-- start middle content-->
+
+                <div class="row">
+                    <div class="large-12 columns" >
+
+                        
+<div class="breadc-sdn">
+
+    <div class="span-55sdn float-left_sdn">
+        <div class="span-55sdn float-left_sdn">
+            <div class="sapn-right-padding sapn-right-padding-reg">
+                <h1><strong>Log on</strong></h1>
+                <p>To access the website, please enter the email address<br />and password you have registered with.</p>
+                <br />
+                <p>Do not have an account? &nbsp;<a href="/users/Register" title="Register">Register</a></p>
+                <br />
+                <br />
+            </div>
+        </div>   
+    </div>
+    <div class="span-45sdn float-right_sdn">
+        <div class="span-40sdn-img-reg">
+            <img src="/img/rg_bg.jpg" alt="Registration image" class="right" />        </div>
+    </div>
+    <div class="clear-both-sdn bdr_btm"></div>
+</div>
+</div>
+</div>
+
+<div class="span_form_in">
+
+    <div class="span_wdt_927 span_tar span_tp22 span_font_lucg span_required_field">
+        <span class="span_red_tc">* </span>indicates required field
+    </div>
+        <div class="span_Errors_msg_box" style="display: none;">
+    <div class="span_Errors_msg_box_icon"> <img src="/img/msg_icon.png"> </div>
+    <div class="span_Errors_msg_box_text">
+        <h4>There are some errors in your form submission</h4>
+        <!-- <p>Within a page certain information needs
+            to be “pulled out” so the user will be less
+            likely to miss it. The contextual notifications
+            offer a way to achieve that and, by using the
+            appropriate treatment, an easy way to identify
+            the type of information also.</p> -->
+        <ul>
+
+        </ul>
+    </div>
+    <div class="clear-both-sdn"></div>
+</div>
+
+    <div class="span_required_field"></div>
+    <div class = "span_form_width1">
+        <div>
+            <form action="/users/Login" id="login" class="jqtransformdone" onsubmit="return ValidateLogin()" method="post" accept-charset="utf-8"><div style="display:none;"><input type="hidden" name="_method" value="POST"/><input type="hidden" name="data[_Token][key]" value="c9ea9cce2a7c5b99923d60d487e2d783aa639ce1" id="Token1947500465"/></div>            <div id="register-form" class="span_padding_b18">
+
+
+                <div class="rowElem">
+
+                    <div class="span_form_width_210">
+                        <div class=" span_form_width_210_text">Email address: </div>
+<div class="span_form_width_210_indicates">*</div>
+                        <div id="page" class="span_form_width_210_img item">
+<img src="/img/qmark.png" alt="Information" />                        <div class="tooltip_description " style="display:none" title="">
+                            This is login Email address.
+                        </div>
+                    </div>
+                        
+                    </div>
+                                        <input name="data[User][Email]" autocomplete="off"  id="Email" autofocus="autofocus" maxlength="50" placeholder="Username" size="35" class="select_box span_form_input_w257" type="text"/>
+                    <div class="clear-both-sdn"></div>
+                </div>
+            <div class="span_padding_b18">
+                <div class="span_form_width_210">
+                    <div class=" span_form_width_210_text">Password:</div>
+ <div class="span_form_width_210_indicates">*</div>
+                    <div id="page" class="span_form_width_210_img item">
+<img src="/img/qmark.png" alt="Information" />                        <div class="tooltip_description " style="display:none" title="">
+                            This is login Password.
+                        </div>
+                    </div>
+                   
+                </div>    
+
+                <div class="">
+                    <input name="data[User][Password]" autocomplete="off"  id="Password" maxlength="50" placeholder="Password" size="35" class="select_box span_form_input_w257" type="password"/>
+                </div>
+            </div>  
+            <div class="clear-both-sdn"></div>
+        </div>
+
+        
+                      
+                            <div class="">
+                                <div class="padd_l125_1">
+                                    <a href="/users/ForgotPassword" class="redlnk" title="Forgotten password?">Forgotten password?</a>                                </div>
+                                <div class="clear-both-sdn"></div>
+                            </div>
+
+
+
+
+
+            
+        
+    </div></div>
+    <div class="clear-both-sdn"></div>
+    
+    
+    <div class="span_bbt_line_b18_2"></div>
+    
+    <div class="float-right_sdn ">
+        <div class="span_text_right">
+            <div class="span_input_submit_inactive_bg padding_below">
+<input  type="submit" class="" title="Log in" value="Log on"/>            </div>
+<div style="display:none;"><input type="hidden" name="data[_Token][fields]" value="7b255c2385321c3201c7093fbde802e8c885b183%3A" id="TokenFields1092862962"/><input type="hidden" name="data[_Token][unlocked]" value="" id="TokenUnlocked1741816676"/></div></form>        </div>   
+    </div>
+
+<div>
+
+    <script type="text/javascript">
+        $(document).ready(function() {
+
+            $('#Email').click(function() {
+                $('.span_Errors_msg_box').hide();
+                $('.span_Errors_msg_box_text ul').html('');
+            });
+
+            $('#Password').click(function() {
+                $('.span_Errors_msg_box').hide();
+                $('.span_Errors_msg_box_text ul').html('');
+            });
+
+
+            $('#Email').keydown(function(e) {
+                $('.span_Errors_msg_box').hide();
+                $('.span_Errors_msg_box_text ul').html('');
+
+            });
+
+            $('#Password').keydown(function(e) {
+                $('.span_Errors_msg_box').hide();
+                $('.span_Errors_msg_box_text ul').html('');
+            });
+
+        });
+
+    </script>
+    <style>
+        .padding_below{
+            padding-bottom:20px;
+        }
+    </style>  
+    <style type="text/css">
+    
+  
+</style>
+                        <!-- Change the position of pop by Somesh  Singh on 3 jun 2013 -->                
+
+                        <!--  All kinds of pop position   at here  -->             
+                        <style type="text/css" >
+                            #lightbox3 {
+                                background-color: #FFFFFF;
+                                color: #4C4C4C !important;
+                                display: none;
+                                font-family: 'LucidaGrandeRegular',Arial,Helvetica,sans-serif;
+                                font-size: 12px;
+                                height: auto;
+                                left: none;
+                                margin: 88px 0px 0px 110px;
+                                position: absolute;
+                                top: 30px;
+                                width: auto;
+                                z-index: 10;
+                            }
+                        </style>
+                           
+                        <script type="text/javascript">
+                            function showdiv(id){
+                                document.cookie = 'hasJS=true; path=/';
+        //alert(id);
+        var gettype = id;
+                            
+        document.getElementById('underlay3').style.display = "block";
+        document.getElementById('lightbox3').style.display = "block";
+        
+        $('body,html').animate({
+        scrollTop: 0
+        }, 2000);
+                            
+        if(gettype=='Login')
+        { //alert(gettype);
+            $("#proceedButton").html('<a class="red_button1_sdn enabled" title="I agree to proceed" href="/users/index/proceed?u=Login">I agree to proceed</a>');
+   
+        }
+        else if (gettype=='Register') 
+        { //alert(gettype);
+            $("#proceedButton").html('<a class="red_button1_sdn enabled" title="I agree to proceed" href="/users/index/proceed?u=Register">I agree to proceed</a>');
+        }
+                                                 
+        else if (gettype=='HowToUseWebsite') 
+        { //alert(gettype);
+            $("#proceedButton").html('<a class="red_button1_sdn enabled" title="I agree to proceed" href="/users/index/proceed?u=HowToUseWebsite">I agree to proceed</a>');
+  
+        }
+                                                 
+        else if (gettype=='GeneralInfo') 
+        { //alert(gettype);
+            $("#proceedButton").html('<a class="red_button1_sdn enabled" title="I agree to proceed" href="/users/index/proceed?u=GeneralInfo">I agree to proceed</a>');
+   
+        }
+                                                 
+                                             
+        //                            
+                            
+    }
+                        </script>
+                        <div id="underlay3" style="display:none">
+                        </div>
+                        <div id="lightbox3" style="display:none">
+                            <div  class="span_cls_butt"> 
+                                                                    <a href="javascript:void(0);" onclick="document.getElementById('underlay3').style.display = 'none';
+                                        document.getElementById('lightbox3').style.display = 'none';"><img src="/img/basic/x.png" ></a>
+                                                                   </div>
+                            <div class="arv">
+                                <div class="Next_steps">
+                                    <div class="wdt_help">
+                                                                                <h3>Please read this important note before proceeding</h3>
+                                        <p>This website enables customers who meet the three criteria detailed below to assess their needs and get a quote for Life Cover to protect their business loan on a non-advised, self-service basis. The website is designed to be used by a business owner or by another person authorised to act on behalf of the business.</p>
+                                        <p>This website does not provide advice and is not a substitute for financial advice. HSBC does not accept any responsibility for any decisions you make based on the information contained within the website.</p>
+                                        <div style="margin-bottom:15px; font-family:Arial, Helvetica, sans-serif;">Please do not use this website if any of the following are true:
+
+                                            <div class="div-li span_lh22"><strong>
+                                                    A. Your Business Loan term is LESS than 2 years.<br>
+                                                    B. Your loan is GREATER than £1million.<br>
+                                                    C. Your loan was taken out more than 90 days from today</strong></div></div>
+                                        <p>Unless specified as a condition of your lending, it is not a mandatory requirement for you to take out a protection policy and where you do take a protection policy, this does not have to be with HSBC and could be with another insurance company. </p>
+                                        <p class="span_bp22_n">Note: Unless you are certain about your needs for Life Cover to protect your Business Loan, HSBC strongly recommends you seek financial advice.</p>
+                                        <div class="button_mg ">
+                                            <div class="float-left_sdn">
+                                                <a href="/" class="red_button1_sdn" title="Leave this website" onclick="closeMe();">Leave this website</a>                                            </div>
+                                            <div class="float-right_sdn enabled" id="proceedButton">
+                                                 
+                                                                                                        <!-- <div class="float-right_sdn enabled" id="proceedButton">-->
+                                                    <a href="/users/index/proceed?u=GeneralInfo" class="red_button1_sdn enabled" title="I agree to proceed">I agree to proceed</a>                                                    <!--</div>-->
+                                                                                            </div>
+                                        </div>
+                                    </div><div style="clear: both;"></div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+
+                    <script>
+                        function closeMe()
+                        {
+                            window.close();
+
+                        }
+               
+                    </script>
+                                        <!-- alert boxes for all site -->
+                    <div id="underlay_alt_msg" style="display: none">        </div>
+                    <div class="lightbox_alt_msg" id="logout-confirm-box" style="display: none;">
+                        <div class="arv"><div class="Next_steps_alt_msg">
+                                <p>Are you sure you want to Logout?  We will save all the details you've entered and display these next time you log in.</p>
+                                <div>
+                                    <span class="span_input_button_active_bg left marg_r10">
+                                        <a href="javascript:$('#logout-confirm-box').hide();$('#underlay_alt_msg').hide();void(0)" class="span_link_new_w">No</a>
+                                    </span> 
+                                    <span class="span_input_button_inactive_bg right marg_r10">
+                                        <a href="/users/logout" class="span_link_new">Yes</a>
+                                    </span>
+                                </div>
+                                <div class="clear-both-sdn"></div>
+                            </div>
+                        </div>
+
+                    </div>
+
+
+                    <!-- <div id="underlay_alt_msg_register" style="display: none">        </div> -->
+                    <div id="underlay_alt_msg" style="display: none">        </div>
+                    <div class="lightbox_alt_msg" id="resident_uk_box_register" style="display: none">
+                        <div class="arv"><div class="Next_steps_alt_msg">
+                                <p>
+                                    You must be a permanent resident in the UK to be included as a life insured on this Business Protection Plan.
+                                    Although you have stated that you are not resident in the UK, you can still continue and arrange life cover for other company employees.
+                                </p>
+                                <div class="span_wdt_200"><span class="span_input_button_active_bg">
+                                        <input  value="OK" onclick="close_register_residentUK_box()" type="button">
+                                    </span> </div>
+                                <div class="clear-both-sdn"></div>
+                            </div>
+                        </div>
+
+                    </div> 
+
+
+                    <div class="lightbox_alt_msg" id="remove-life-confirm-box" style="display: none;">
+                        <div class="arv">
+                            <div class="Next_steps_alt_msg">
+                                <p>Are you sure you want to remove this life from the quote?</p>
+                                <div>
+                                    <span class="span_input_button_active_bg left marg_r10">
+                                        <a href="javascript:$('#remove-life-confirm-box').hide();$('#underlay_alt_msg').hide();void(0)" class="span_link_new_w">No</a>
+                                    </span> 
+                                    <span class="span_input_button_inactive_bg right marg_r10">
+                                        <a id="delete_link" href="javascript:void(0)" class="span_link_new">Yes</a>
+                                    </span>
+                                </div>
+                                <div class="clear-both-sdn"></div>
+                            </div>
+                        </div>
+                    </div> 
+
+                    <div class="lightbox_alt_msg" id="remove-life-confirm-box1" style="display: none;">
+                        <div class="arv">
+                            <div class="Next_steps_alt_msg">
+                                <p>Are you sure you want to remove this life from the application?</p>
+                                <div>
+                                    <span class="span_input_button_active_bg left marg_r10">
+                                        <a href="javascript:$('#remove-life-confirm-box1').hide();$('#underlay_alt_msg').hide();void(0)" class="span_link_new_w">No</a>
+                                    </span> 
+                                    <span class="span_input_button_inactive_bg right marg_r10">
+                                        <a id="delete_link1" href="javascript:void(0)" class="span_link_new" >Yes</a>
+                                    </span>
+                                </div>
+                                <div class="clear-both-sdn"></div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="lightbox_alt_msg" id="remove-life-confirm-box2" style="display: none;">
+                        <div class="arv">
+                            <div class="Next_steps_alt_msg">
+                                <p>To view or update these details, you will be taken <br> back to the Quote section. Are you sure you want <br> view or update these details?</p>
+                                <div>
+                                    <span class="span_input_button_active_bg left marg_r10">
+                                        <a href="javascript:$('#remove-life-confirm-box2').hide();$('#underlay_alt_msg').hide();void(0)" class="span_link_new_w">No</a>
+                                    </span> 
+                                    <span class="span_input_button_inactive_bg right marg_r10">
+                                        <a id="delete_link2" href="javascript:void(0)" class="span_link_new" >Yes</a>
+                                    </span>
+                                </div>
+                                <div class="clear-both-sdn"></div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- ************ alert box ************ -->
+                    <div class="lightbox_alt_msg" id="smoker-alert-lightbox"  style="display: none;">
+                        <div class="arv"><div class="Next_steps_alt_msg">
+                                <p>
+                                    We may randomly test non-smokers during the application process to check their smoking status.</p>
+                                <div class="span_wdt_200"><span class="span_input_button_active_bg">
+                                        <input value="Continue" onclick="submit_life_form()" type="button">
+                                    </span> </div>
+                                <div class="clear-both-sdn"></div>
+                            </div>
+                        </div>
+
+                    </div>
+                    <!-- ************ end alert box ************ -->
+
+                    <!--  All kinds of pop position   at here  -->
+                </div>
+            </div>
+            <!-- ended middle content-->
+
+            <!-- start of footer -->
+            <div class="hsbcFooter">
+                <div>
+                    <ul style="width: 900px; margin: 0 auto;">
+                                                    <li><a href="/" title="Home">Home</a></li>
+                                                <li><a href="http://www.business.hsbc.co.uk/1/2//legal?returnURL=true" onclick="window.open('http://www.business.hsbc.co.uk/1/2//legal?returnURL=true', '_blank', 'status=yes,location=yes,menubar=yes,resizable=yes,scrollbars=yes,toolbar=yes,width=900,height=545,screenX=0,left=0,screenY=0,top=0');return false;" title="Legal Information">Legal Information <img src="/img/sprite_sdn.png" alt="Legal Information" /></a></li>
+                        <li><a href="http://www.business.hsbc.co.uk/1/2//legal/cookie-policy?returnURL=true" onclick="window.open('http://www.business.hsbc.co.uk/1/2//legal/cookie-policy?returnURL=true', '_blank', 'status=yes,location=yes,menubar=yes,resizable=yes,scrollbars=yes,toolbar=yes,width=900,height=545,screenX=0,left=0,screenY=0,top=0');
+                            return false;" title="Cookie Policy" class="dnt_no_consent">Cookie Policy <img src="/img/sprite_sdn.png" alt="Cookie Policy" /></a></li>
+                        <li><a href="http://www.business.hsbc.co.uk/1/2/accessibility?returnURL=true" onclick="window.open('http://www.business.hsbc.co.uk/1/2/accessibility?returnURL=true', '_blank', 'status=yes,location=yes,menubar=yes,resizable=yes,scrollbars=yes,toolbar=yes,width=900,height=545,screenX=0,left=0,screenY=0,top=0');
+                            return false;" title="Accessibility">Accessibility <img src="/img/sprite_sdn.png" alt="Accessibility" /></a></li>
+                        <li><a target="_blank" href="http://www.hsbc.com/1/2/online-security" onclick="window.open('http://www.hsbc.com/1/2/online-security', '_blank', 'status=yes,location=yes,menubar=yes,resizable=yes,scrollbars=yes,toolbar=yes,width=900,height=545,screenX=0,left=0,screenY=0,top=0');
+                            return false;" title="Security"><span class="linkPopup">Security</span> <img src="/img/sprite_sdn.png" alt="Security" /></a></li>
+                        <li><a href="http://www.hsbc.co.uk/1/2/about-us" title="About HSBC" onclick="window.open('http://www.hsbc.co.uk/1/2/about-us', '_blank', 'status=yes,location=yes,menubar=yes,resizable=yes,scrollbars=yes,toolbar=yes,width=900,height=545,screenX=0,left=0,screenY=0,top=0');
+                            return false;">About HSBC <img src="/img/sprite_sdn.png" alt="About HSBC" /></a></li>
+                    </ul>
+                    <p>&copy; Copyright HSBC 2012.
+                        All rights reserved.
+                        No endorsement or approval of any third parties or their advice, opinions, information, products or services is expressed or implied by any information on this Site or by any hyperlinks to or from any third party websites or pages.
+                        Your use of this website is subject to the terms and conditions governing it.
+                        Please read these terms and conditions before using the website.</p>
+                </div>
+            </div>
+            <!-- ended of footer -->
+            <script type="text/javascript">
+                $(document).ready(function() {
+                    $('#logout').click(function() {
+                        $('#underlay_alt_msg').show();
+                        $('#logout-confirm-box').show();
+
+                    });            
+
+                });
+
+
+                function remove_life(base64_id){
+                    $('#underlay_alt_msg').show();
+                    $('#remove-life-confirm-box').show();
+                    $('#delete_link').attr('href','/quotes/LifeDelete/'+base64_id);
+                }
+
+
+
+                function checkResiUK(resival){ 
+                    if (resival == 'n') {
+                        $('#underlay_alt_msg_register').show();
+                        $('#underlay_alt_msg').show();
+                        $('#resident_uk_box_register').show();
+                    }
+                }
+
+
+                function remove_life1(base64_id){
+                    $('#underlay_alt_msg').show();
+                    $('#remove-life-confirm-box1').show();
+                    $('#delete_link1').attr('href','/applies/LifeAppDelete/'+base64_id);
+                }
+
+                function remove_life2(base64_id){
+                    $('#underlay_alt_msg').show();
+                    $('#remove-life-confirm-box2').show();
+                    $('#delete_link2').attr('href','/quotes/LifeEdit/'+base64_id);
+                }
+
+                function submit_life_form(){
+                    $('#LifeAdd').submit();
+                    $('#LifeEdit').submit();
+                    $('#QuoteStart').submit();
+                }
+                function close_residentUK_box(){
+                    $('#underlay_alt_msg').hide();
+                    $('#resident_uk_box').hide();
+
+                }
+                function close_register_residentUK_box(){
+                    $('#underlay_alt_msg_register').hide();
+                    $('#underlay_alt_msg').hide();
+                    $('#resident_uk_box_register').hide();
+
+                }
+
+
+
+            </script>
+            <!-- end alert boxes for all site -->
+
+
+        </div>
+
+                <!-- JavaScript Checking -->
+        <script language="Javascript" type="text/javascript"><!-- gVersion="1.0"; //-->
+        </script>
+        <script language="Javascript1.1" type="text/javascript"><!-- gVersion="1.1"; //-->
+        </script>
+        <script language="Javascript1.2" type="text/javascript"><!-- gVersion="1.2"; var RE={"%09":/\t/g,"%20":/ /g,"%23":/\#/g,"%26":/\&/g,"%2B":/\+/g,"%3F":/\?/g,"%5C":/\\/g}; //-->
+        </script>
+        <script language="Javascript1.3" type="text/javascript"><!-- gVersion="1.3"; //-->
+        </script>
+        <script language="Javascript1.4" type="text/javascript"><!-- gVersion="1.4"; //-->
+        </script>
+        <script language="Javascript1.5" type="text/javascript"><!-- gVersion="1.5"; //-->
+        </script>
+        <!-- No Script alternative -->
+        <noscript>
+        <img name="dcsimg" width="1" height="1" alt="" src="http://www1.member-hsbc-group.com/dcsl7f9tqvievvnrl1lv4ug9d_1j5o/njs.gif?dcsuri=/nojavascript&amp;WT.js=No" />
+        </noscript>
+        <!-- Reference to externalised bottom_section.js file -->
+        <script language="javascript" type="text/javascript" src="/js/bottom_section.js"></script> 
+    </body>
+</html>
